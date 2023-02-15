@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/Main Menu.unity
+    guid: 93a3cf59fe4250a44871fa71b7f75711
+  - enabled: 1
+    path: Assets/Scenes/Overworld/MainScene.unity
+    guid: 2febf988f55c21c45824a5a94fc7dd75
+  - enabled: 1
+    path: Assets/Scenes/Battle Arena/Battle Arena.unity
+    guid: 37509d1f749830c47a57406b0640cafd
+  m_configObjects: {}
